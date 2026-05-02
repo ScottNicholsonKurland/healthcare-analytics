@@ -105,3 +105,24 @@ docs/mysql_workbench_load_guide.md
 ## Modeling conclusion
 
 The SQL-only models did not find a strong predictive signal. This is a useful conclusion: the project demonstrates baseline modeling and interpretation rather than inflated claims.
+
+## How to Reproduce
+
+1. Download the original dataset from Kaggle.
+2. Open MySQL Workbench.
+3. Run `sql/01_create_and_load.sql`.
+4. Run `sql/02_clean_transform.sql`.
+5. Run `sql/03_eda_queries.sql`.
+6. Run `sql/04_sql_models.sql`.
+7. Run `sql/05_validation_and_export_queries.sql`.
+8. Open the Python notebook in `python/`.
+9. Open the Power BI dashboard in `powerbi/`.
+
+
+
+
+
+
+
+
+
