@@ -1,13 +1,26 @@
 # Healthcare Encounter Analytics
 
+## At a Glance
+
+| Area | Detail |
+|---|---|
+| Dataset | 55,500 healthcare encounter records |
+| Tools | MySQL, Python, Power BI |
+| Skills shown | SQL cleaning, EDA, validation, baseline modeling, interpretation |
+| Final cleaned rows and columns | 54,966 and 21 |
+| Key result | Descriptive analytics useful; predictive signal weak |
+| Best use case | Healthcare operations reporting, not clinical prediction |
+
 ## Project objective
 
 Analyze a healthcare encounter dataset to identify billing, utilization, admission, and test-result patterns. The project includes data cleaning, exploratory analysis, supervised modeling, and interpretation.
 
-## Dataset size
+## Dataset
 
-- Rows after cleaning: **54,966**
-- Columns after cleaning: **21**
+Source: Kaggle Healthcare Dataset by prasad22: https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+This project uses the dataset for educational portfolio purposes. The dataset is synthetic, but this project does not treat it as real clinical evidence.
+
 - Admission date range: **2019-05-08 to 2024-05-07**
 - Valid billing records: **54,860**
 
