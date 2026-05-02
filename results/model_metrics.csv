@@ -1,0 +1,6 @@
+task,target,model,test_rows,mae,rmse,r2,accuracy,macro_f1
+regression,billing_amount,billing_global_mean,10884,12340.95,14242.1,-0.0,,
+regression,billing_amount,billing_condition_average,10884,12338.84,14239.57,0.0003,,
+regression,billing_amount,billing_group_average_sql_model,10884,12472.34,14518.03,-0.0391,,
+classification,test_results,test_result_global_majority,10884,,,,0.336,0.1677
+classification,test_results,test_result_group_majority_sql_model,10884,,,,0.336,0.3358
