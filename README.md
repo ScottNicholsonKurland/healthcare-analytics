@@ -1,4 +1,18 @@
+## Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](powerbi/dashboard_screenshot_overview.png)
+
+### Billing Analysis
+
+![Billing Analysis](powerbi/dashboard_screenshot_billing.png)
+
+### Utilization & Outcomes
+
+![Utilization & Outcomes](powerbi/dashboard_screenshot_utilization.png)
 # Healthcare Encounter Analytics
+This project combines MySQL, Python, and Power BI to clean, analyze, model, and visualize a 55,500-row healthcare encounter dataset. The final dashboard summarizes billing, admissions, length of stay, medical conditions, medications, and test results while documenting the dataset’s weak predictive signal.
 
 ## At a Glance
 
