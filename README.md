@@ -50,9 +50,104 @@ The models did not find a strong predictive signal in the available fields. This
 
 This project demonstrates practical data-analysis workflow discipline: cleaning, profiling, feature engineering, baseline modeling, model comparison, and responsible interpretation.
 
-# Healthcare MySQL Analytics Project
+# Healthcare MySQL Analytics Subp
 
-This project cleans, explores, models, and interprets a healthcare encounter dataset using MySQL-oriented SQL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+roject
+
+This subproject cleans, explores, models, and interprets a healthcare encounter dataset using MySQL-oriented SQL.
 
 ## Contents
 
